@@ -1,4 +1,4 @@
-# ibom-chat-popup
+# ibom-chat-popup-v2
 
 `ibom-chat-popup` provides an intercom-like chat window for IBom organization, this project based on <a href="https://www.npmjs.com/package/react-chat-window">react-chat-window</a>
 
@@ -25,7 +25,7 @@ After that go to demo/src/index to update correctly props like token, apiHost, e
 
 ``` javascript
 import React, {Component} from 'react'
-import PopupChat from 'ibom-chat-popup'
+import PopupChat from 'ibom-chat-popup-v2'
 
 class Demo extends Component {
   ...

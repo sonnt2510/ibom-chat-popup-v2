@@ -1,5 +1,5 @@
 {
-  "name": "ibom-popup-chat",
+  "name": "ibom-popup-chat-v2",
   "version": "1.2.2",
   "description": "IBom popup chat React component",
   "main": "lib/index.js",
@@ -52,7 +52,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sonnt2510/ibom-chat-popup"
+    "url": "https://github.com/sonnt2510/ibom-chat-popup-v2"
   },
   "keywords": [
     "react-component"
